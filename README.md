@@ -32,7 +32,7 @@
 
 ### [Ejercicio 10: Media Aritmética](EjerciciosClase02/Ejercicio1.java)
 
-## Ejercicios Clase 2
+## Ejercicios Clase 3
 
 ### [Ejercicio 1](EjerciciosClase03/Ejercicio1.java)
 
