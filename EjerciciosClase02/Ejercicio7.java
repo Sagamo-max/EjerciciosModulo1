@@ -10,14 +10,12 @@ public class Ejercicio7 {
             
             var scanner = new Scanner(System.in);
 
-            var numero1 = 0;
-            var numero2 = 0;
     
             System.out.print("Ingrese el primer numero: ");
-            numero1 = scanner.nextInt();
+            var numero1 = scanner.nextInt();
     
             System.out.print("Ingrese el segundo numero: ");
-            numero2 = scanner.nextInt();
+            var numero2 = scanner.nextInt();
     
             System.out.println("La suma de los numeros es: " + (numero1 + numero2));
             System.out.println("La resta de los numeros es: " + (numero1 - numero2));
